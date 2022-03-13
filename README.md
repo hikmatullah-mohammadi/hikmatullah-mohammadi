@@ -6,4 +6,4 @@
 - 📫 How to reach me : hikmatullah.m80@gmail.com
 - 😊 Always energitic
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikmatullah-mohammadi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikmatullah-mohammadi?theme=radical)](https://github.com/anuraghazra/github-readme-stats)
