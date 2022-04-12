@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @hikmatullah-mohammadi
 - 👀 I’m interested in being challenged
-- 🌱 I’m currently learning Web Applications
+- 🌱 I’m currently learning Web Applications (Backend)
 - 📫 How to reach me : hikmatullah.m80@gmail.com
 - 😊 Always energitic
 
