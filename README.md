@@ -15,6 +15,9 @@
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt='Bootstrap'/>
 <img src='https://img.icons8.com/officel/80/000000/react.png' alt='React' width='50px'/>
 <img src='https://img.icons8.com/color/96/000000/redux.png' alt='Redux' width='50px'/>
+<img src='https://img.icons8.com/color/344/nodejs.png' alt='NodeJS' width='50px'/>
+<img src='https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png' alt='Express' width='50px'/>
+<img src='https://img.icons8.com/color/344/mongodb.png' alt='Mongodb' width='50px'/>
 <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" alt='jQuery' width='50px'/>
 <img src="https://img.icons8.com/color/48/000000/npm.png" alt='NPM' width='50px'/> <br>
 <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt='Python' width='50px'/>
