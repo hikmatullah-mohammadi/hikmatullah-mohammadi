@@ -5,7 +5,7 @@
 - **😊 My bachelor's thesis: [Computer Vision-based Advanced Driver Assistance System (ADAS)](https://github.com/hikmatullah-mohammadi/vision-based-adas/)**
 - **👀 I’m interested in being challenged**
 - **🌱 I’m currently learning *Machine learning and computer vision***
-- **😊 Always energitic**
+- **😊 Always energetic**
 
 
 ## Fields of Interest
@@ -20,5 +20,8 @@
 - Kaggle: [Hikmatullah Mohammadi](https://www.kaggle.com/hikmatullahmohammadi/)
 - Email: [hikmatullah.m80@gmail.com](mailto:hikmatullah.m80@gmail.com)
 
-### Thank you🥰
+## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikmatullah-mohammadi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Thank you🥰
+
