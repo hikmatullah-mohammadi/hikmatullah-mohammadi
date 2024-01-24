@@ -23,5 +23,10 @@
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikmatullah-mohammadi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+
+---
+I am a passionate and skilled professional in the field of machine learning, with experience as a machine learning intern and team leader. I am conﬁdent in my abilities to contribute eﬀectively and make a positive impact. I am eager to apply my expertise and continue my growth in a challenging and dynamic environment. Thank you for considering my
+application.
+
 ### Thank you🥰
 
